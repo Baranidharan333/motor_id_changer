@@ -1,0 +1,17 @@
+/target
+/releases/
+*.o
+*.a
+*.so
+*.out
+*.exe
+c_abi_demo
+cpp_abi_demo
+__pycache__/
+*.pyc
+
+# Node / Mintlify local artifacts
+node_modules/
+.mintlify/
+.next/
+SKILL.md
